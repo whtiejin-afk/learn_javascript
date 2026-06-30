@@ -44,7 +44,7 @@ greeitngInput();
 '''
 */
 
-const f_Lower= (text) => text.toLowerCase();
+const f_Lower = (text) => text.toLowerCase();
 
 const LowerResult = f_Lower('aBcd');
 console.log("🚀 ~ LowerResult:", LowerResult)
